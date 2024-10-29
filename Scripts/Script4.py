@@ -17,7 +17,7 @@ while True:
 
 print(f'Sua lista tem {cont} numeros.')
 
-print('essa ord0em padrão de sua lista: ' , end='')
+print('essa ordem padrão de sua lista: ' , end='')
 for c in range(0 , len(lista)):
     print(lista[c] , end=' ')
 
