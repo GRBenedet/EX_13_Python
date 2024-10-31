@@ -25,4 +25,4 @@ for l in range(0 , 3):
     print()
 print('='*30)
 
-print (f'Esta é a soma de todos os pares: {somapares}.\nEsta é a soma de todos os os numeros da segunda coluna: {somac}.')
+print (f'Esta é a soma de todos os pares: {somapares}.\nEsta é a soma de todos os os numeros da terceira coluna: {somac}.')
